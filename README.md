@@ -12,7 +12,6 @@ A comprehensive collection of C-based programs and resources for learning and ex
 - [Directory Structure](#directory-structure)
 - [Getting Started](#getting-started)
 - [Disclaimer](#disclaimer)
-- [License](#license)
 
 ---
 
