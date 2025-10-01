@@ -1,0 +1,13 @@
+PHYSICAL LAYER ->   physical connection between the ports, whose primary			role is communicating raw bit streams
+
+DATA-LINK LAYER ->  provides high-level functions, such as error corrections			and flow control
+
+NETWORK LAYER ->    provides addressing and routing
+
+TRANSPORT LAYER ->  provides transparent and reliable transfer of data 				between systems
+
+SESSION LAYER ->    responsible for establishing and maintaining connections			between network applications
+
+PRESENTATION LAYER -> responsible for presenting the data to applications in 			a syntax or language they understand. Allows for things			    like encryption and data compression
+
+APPLICATION LAYER -> keeps track of the requirements of the application

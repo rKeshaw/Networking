@@ -1,0 +1,11 @@
+/usr/include/netinet/in.h -> Defines Internet constants and structures
+/usr/include/arpa/nameser.h -> Contains name server information
+/usr/include/netdb.h -> Contains data definitions for socket subroutines
+/usr/include/resolv.h -> Contains resolver global definitions and variables
+/usr/include/sys/socket.h -> Contains data definitions and socket structures
+/usr/include/sys/socketvar.h -> Defines the kernel structure per socket and contains buffer queues
+/usr/include/sys/types.h -> Contains data type definitions
+/usr/include/sys/un.h -> Defines structures for the UNIX interprocess communication domain
+/usr/include/sys/ndd_var.h -> Defines structures for the operating system Network Device Driver (NDD) domain
+/usr/include/sys/atmsock.h -> Contains constants and structures for the Asynchronous Transfer Mode (ATM) protocol in the operating system NDD domain
+/usr/include/arpa/* -> Translates Internet addresses
